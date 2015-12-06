@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=_name\ _fuelLoad\ _nextConnection
+comment0.target=Connection(java.lang.String,\ int,\ Connection)
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment2.params=
+comment2.target=int\ fuelLoad()
+comment3.params=_connection
+comment3.target=void\ setNext(Connection)
+comment4.params=
+comment4.target=Connection\ next()
+comment5.params=
+comment5.target=void\ printConnection()
+numComments=6

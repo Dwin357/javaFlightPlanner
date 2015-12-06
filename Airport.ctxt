@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=_name\ _connections
+comment0.target=Airport(java.lang.String,\ Connection)
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment2.params=_connection
+comment2.target=void\ setConnections(Connection)
+comment3.params=
+comment3.target=Connection\ getConnections()
+comment4.params=destination\ fuelLoad
+comment4.target=void\ addConnection(java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ printAirport()
+numComments=6
